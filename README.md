@@ -13,3 +13,5 @@ Este projeto é um exemplo de um cronômetro simples criado como um exercício d
 - **Reiniciar**: Zera o cronômetro.
 - **Continuar**: Continua o cronômetro de onde foi pausado.
 
+link: https://lucasmsti.github.io/Stopwatch/
+
